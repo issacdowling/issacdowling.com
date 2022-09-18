@@ -2,7 +2,8 @@
 title = "About Me"
 description = "What do I do?"
 +++
-
+\
+\
 ## I make videos about technology, and am currently trying to gain the knowledge necessary to make my *own* stuff. 
 
 ### I believe in an open internet, open-source software, and right to repair 
