@@ -11,9 +11,36 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name = "About"
+  pageRef = "about" #No trailing slash here or it breaks??
+  weight = 10
+
+[[main]]
   name = "Blog"
-  pageRef = "/posts/blog/"
+  pageRef = "posts/blog/"
   weight = 20
+
+  [[main]] #THIS ONLY EXISTS BECAUSE THE 
+    name = "Blogs" #PARENT OF A NESTED MENU IS 
+    parent = "Blog" #UNCLICKABLE IN VERTICAL LAYOUTS
+    pageRef = "posts/blog"
+    weight = 1
+
+  [[main]]
+    name = "Categories"
+    parent = "Blog"
+    pageRef = "categories/"
+    weight = 2
+
+  [[main]]
+    name = "Tags"
+    parent = "Blog"
+    pageRef = "tags/"
+    weight = 3
+
+
+
+
 
 #[[main]]
 #  name = "Parent"
