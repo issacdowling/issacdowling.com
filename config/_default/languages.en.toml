@@ -15,11 +15,13 @@ title = "Issac Dowling"
 
   [author]
   name = "Issac Dowling"
-  image = "img/avatar.webp"
+  image = "img/avatar.png"
   headline = "I make things, and videos about things"
-  bio = "Test"
+  #bio = "Test"
   links = [
     { email = "mailto:contact@issacdowling.com" },
     { youtube = "https://youtube.com/issacdowling" },
-    { tiktok = "https://www.tiktok.com/@issacdowling"}
+    { tiktok = "https://www.tiktok.com/@issacdowling"},
+    { discord = "https://discord.com/invite/rmQX5984g8"},
+    { gitlab = "https://gitlab.com/issacdowling"}
   ]
