@@ -2,8 +2,8 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 authors: ["Issac Dowling"]
-categories: ["Just Chatting"]
-tags: ["personal", "about this blog"]
+categories: []
+tags: []
 draft: true
 showTableOfContents: true
 ---
