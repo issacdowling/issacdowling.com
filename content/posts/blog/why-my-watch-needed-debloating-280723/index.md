@@ -1,6 +1,6 @@
 ---
 title: "Why My Watch *Needed* Debloating"
-date: 2023-07-28T10:02:17+01:00
+date: 2023-07-28T13:01:13+01:00
 authors: ["Issac Dowling"]
 categories: ["Just Chatting"]
 tags: ["Debloating", "Software", "Optimisation", "Wearables", "Frustration", "Has a Video Too"]
@@ -93,7 +93,7 @@ Here is the list of packages I removed:
 - com.android.providers.calendar
 - com.google.android.apps.walletnfcrel
 
-I disabled these in the app settings afterwards, and I'm pretty sure you'll see an issue.
+I disabled these in the app settings afterwards, (or removed installed upgrades if that was the only option) and I'm pretty sure you'll see the issue.
 ![The menu to disable an app](fossil-wearos-diesel-disable.png)
 - Diesel
 - Fit
@@ -138,6 +138,6 @@ That install process works with any app you find, so this will be useful for peo
 
 - **A "fun" learning experience from doing all of this to the watch**
 
-I really do apologise for the debloating section going awry. I'm not sure why sometimes it acts differently. The first time I tried this (many factory resets ago), it didn't do this, and every time it's been a little bit different. 
+I really do apologise for the debloating section going awry. I'm not sure why sometimes it acts differently. The first time I tried this (many factory resets ago), it didn't do this, and every time it's been a little bit different. Also I should mention here, disable your ADB debugging in the Wear OS app / phone, and on your watch now.
 
 I hope regardless that you enjoyed or learned something. I know - and acknowledged in my [video about this](https://youtu.be/zWobD9gfZPE) - that there's a reddit post and some Github issues related to debloating fossils, but I hope that this was a nice way to present it all, along with my own findings.
