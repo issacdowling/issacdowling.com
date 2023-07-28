@@ -21,12 +21,12 @@
   --color-primary-900:    88,88,88;
   --color-secondary-50:     229,226,237;
   --color-secondary-100:    187,179,207;
-  --color-secondary-200:    145,132,177;
+  --color-secondary-200:    145,132,178;
   --color-secondary-300:    105,90,143;
   --color-secondary-400:    145,132,177; /*Small code block text `code` in dark mode */
   --color-secondary-500:    36,31,49;
   --color-secondary-600:    18,15,24;
-  --color-secondary-700:    0,0,0;
+  --color-secondary-700:    0,0,0; 
   --color-secondary-800:    0,0,0;
   --color-secondary-900:    0,0,0;
   }
