@@ -38,7 +38,10 @@
     pageRef = "tags/"
     weight = 3
 
-
+[[main]]
+  name = "RSS"
+  pageRef = "rss"
+  weight = 30
 
 
 
