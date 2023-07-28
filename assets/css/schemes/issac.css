@@ -1,10 +1,10 @@
 :root { --color-neutral: 164, 138, 226; /*Main background in light mode */
-  --color-neutral-50:     161,150,187; /* # and ## text in blogs dark mode */
+  --color-neutral-50:     161,150,188; /* # and ## text in blogs dark mode */
   --color-neutral-100:    144, 118, 206; /* TOC in light mode, TOC text in dark mode */
   --color-neutral-200:    203,196,217;
   --color-neutral-300:    161,150,187; /*Blog paragraph text and author name in dark mode */
   --color-neutral-400:    119,103,157;
-  --color-neutral-500:    65,56,87;
+  --color-neutral-500:    65,56,87; 
   --color-neutral-600:    65,56,87;
   --color-neutral-700:    47,40,62;
   --color-neutral-800:    28,24,37; /*Main background in dark mode */
