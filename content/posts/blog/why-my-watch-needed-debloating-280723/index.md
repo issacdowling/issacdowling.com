@@ -28,9 +28,9 @@ The problem is, I don't need that anymore.
 
 ## And can't the watch already do those things?
 
-Yes, my watch can already do those two simple things. The problem is, it's really really slow. Below is a GIF of me just trying to open the notification menu on my watch as it comes stock. 
+Yes, my watch can already do those two simple things. The problem is, it's really really slow. Below is a GIF of me just trying to open the notification menu on my watch as it comes stock. That is a 30fps gif, it's realtime.
 
-PUT HERE BEFORE PUBLISHING
+![Swiping up to check notifications on a watch, but they don't show up for a few seconds](fossil-sport-wearos-slow-notifs.gif)
 
 This is not constant, but it's often enough that it encourages me to never bother using the watch, since my phone coming out of my pocket is at least a consistent speed, if slower sometimes. 
 
