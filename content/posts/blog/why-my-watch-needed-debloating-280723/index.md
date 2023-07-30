@@ -2,7 +2,7 @@
 title: "Why My Watch *Needed* Debloating"
 date: 2023-07-28T13:01:13+01:00
 authors: ["Issac Dowling"]
-categories: ["Just Chatting"]
+categories: ["Just Chatting", "Android", "Tech"]
 tags: ["Debloating", "Software", "Optimisation", "Wearables", "Frustration", "Has a Video Too"]
 draft: false
 showTableOfContents: true
