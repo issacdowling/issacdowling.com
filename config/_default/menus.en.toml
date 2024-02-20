@@ -39,9 +39,14 @@
     weight = 3
 
 [[main]]
+  name = "Transcripts"
+  pageRef = "transcripts"
+  weight = 30
+
+[[main]]
   name = "RSS"
   pageRef = "rss"
-  weight = 30
+  weight = 40
 
 
 
