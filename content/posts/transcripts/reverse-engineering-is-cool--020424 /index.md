@@ -1,6 +1,6 @@
 ---
 title: "Transcript: Reverse-Engineered Software is Cool"
-date: 2024-02-09T19:00:00+01:00
+date: 2024-04-02T19:20:00+01:00
 authors: ["Issac Dowling"]
 categories: ["Trancript"]
 draft: false
