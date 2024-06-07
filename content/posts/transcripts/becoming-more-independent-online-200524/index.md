@@ -1,5 +1,5 @@
 ---
-title: "Becoming more independent online (Transcirpt)"
+title: "Transcript: Becoming more independent online"
 date: 2024-05-20T01:33:31+01:00
 authors: ["Issac Dowling"]
 categories: ["Trancript"]
