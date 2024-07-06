@@ -6,11 +6,13 @@ categories: ["Trancript"]
 draft: false
 showTableOfContents: false
 ---
- Quick, I really need to upload something, but the internet's down.
- How can I get it to my phone so I can use data?
- Don't worry, I've got just the thing.
- I'm never asking you for help again.
- Because USB sticks do have a time and place, but it's not now or anywhere near sensitive
+"Quick, I really need to upload something, but the internet's down. How can I get it to my phone so I can use data?"
+
+"Don't worry, I've got just the thing."
+
+"I'm never asking you for help again..."
+
+Because USB sticks do have a time and place, but it's not now or anywhere near sensitive
  data.
  They're unreliable, easy to lose, and just so last decade.
  But not everyone wants a NAS, so what are the different ways we can move data around?
