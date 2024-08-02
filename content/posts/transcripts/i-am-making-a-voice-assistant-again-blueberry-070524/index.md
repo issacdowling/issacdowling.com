@@ -2,7 +2,7 @@
 title: "Transcript: I'm Making a Voice Assistant (again)"
 date: 2024-05-07T23:47:31+01:00
 authors: ["Issac Dowling"]
-categories: ["Trancript"]
+categories: ["Transcript"]
 draft: false
 showTableOfContents: false
 ---

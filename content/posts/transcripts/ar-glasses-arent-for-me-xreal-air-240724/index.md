@@ -2,7 +2,7 @@
 title: "Transcript: AR Glasses Aren't For Me (Xreal Air / Linux)"
 date: 2024-07-24T01:33:31+01:00
 authors: ["Issac Dowling"]
-categories: ["Trancript"]
+categories: ["Transcript"]
 draft: false
 showTableOfContents: false
 ---

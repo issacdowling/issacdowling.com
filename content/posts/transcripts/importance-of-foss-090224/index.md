@@ -2,7 +2,7 @@
 title: "Transcript: The importance of FOSS"
 date: 2024-02-09T19:00:00+01:00
 authors: ["Issac Dowling"]
-categories: ["Trancript"]
+categories: ["Transcript"]
 draft: false
 showTableOfContents: false
 ---

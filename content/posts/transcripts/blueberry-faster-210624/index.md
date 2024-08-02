@@ -2,7 +2,7 @@
 title: "Transcript: Blueberry Just Got Way Faster"
 date: 2024-06-20T08:33:31+01:00
 authors: ["Issac Dowling"]
-categories: ["Trancript"]
+categories: ["Transcript"]
 draft: false
 showTableOfContents: false
 ---
