@@ -1,8 +1,8 @@
 ---
 title: "Transcript: Turning a Switch into a Steam Deck / Linux Mini PC"
-date: 2024-08-04T01:33:31+01:00
+date: 2024-08-02T01:33:31+01:00
 authors: ["Issac Dowling"]
-categories: ["Trancript"]
+categories: ["Transcript"]
 draft: false
 showTableOfContents: false
 ---
