@@ -3,4 +3,4 @@ title: Blog
 url: /blog
 ---
 
-### If you'd like to _just_ see a certain type of thing, see tags and categories in the header. This feed contains everything.
+I don't blog often (that's an understatement), but I have this page just incase, since I love reading blogs.

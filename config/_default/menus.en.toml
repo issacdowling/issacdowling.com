@@ -1,7 +1,7 @@
 # -- Main Menu --
 # The main menu is displayed in the header at the top of the page.
 # Acceptable parameters are name, pageRef, page, url, title, weight.
-# 
+#
 # The simplest menu configuration is to provide:
 #   name = The name to be displayed for this menu link
 #   pageRef = The identifier of the page or section to link to
@@ -11,48 +11,37 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "About"
-  pageRef = "about" #No trailing slash here or it breaks??
-  weight = 10
+name = "About"
+pageRef = "/posts/blog/about-me-160924/" #No trailing slash here or it breaks??
+weight = 10
 
 [[main]]
-  name = "Blog"
-  pageRef = "blog"
-  weight = 20
+name = "Blog"
+pageRef = "blog"
+weight = 20
 
-  [[main]] #THIS ONLY EXISTS BECAUSE THE 
-    name = "Blogs" #PARENT OF A NESTED MENU IS 
-    parent = "Blog" #UNCLICKABLE IN VERTICAL LAYOUTS
-    pageRef = "blog"
-    weight = 1
-
-  [[main]]
-    name = "Categories"
-    parent = "Blog"
-    pageRef = "categories"
-    weight = 2
-
-  [[main]]
-    name = "Tags"
-    parent = "Blog"
-    pageRef = "tags/"
-    weight = 3
+[[main]] #THIS ONLY EXISTS BECAUSE THE
+name = "Blogs"   #PARENT OF A NESTED MENU IS
+parent = "Blog"  #UNCLICKABLE IN VERTICAL LAYOUTS
+pageRef = "blog"
+weight = 1
 
 [[main]]
-  name = "Transcripts"
-  pageRef = "transcripts"
-  weight = 30
+name = "Categories"
+parent = "Blog"
+pageRef = "categories"
+weight = 2
+
+# [[main]]
+# name = "Tags"
+# parent = "Blog"
+# pageRef = "tags/"
+# weight = 3
 
 [[main]]
-  name = "Blueberry"
-  pageRef = "blueberry"
-  weight = 40
-
-[[main]]
-  name = "RSS"
-  pageRef = "rss"
-  weight = 50
-
+name = "RSS"
+pageRef = "rss"
+weight = 50
 
 
 #[[main]]

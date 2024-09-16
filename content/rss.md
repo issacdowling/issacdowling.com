@@ -7,7 +7,6 @@ showTableOfContents: false
 showRelatedContent: false
 ---
 
-
 **If you want an RSS feed from any of the pages on this site, just add `/index.xml` to the end and add it to your reader.**
 
-Here is [the blog](https://issacdowling.com/posts/blog/index.xml)
+Here is [the blog](/blog/index.xml)

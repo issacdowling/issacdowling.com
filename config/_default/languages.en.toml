@@ -4,26 +4,22 @@ weight = 1
 title = "Issac Dowling"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
-  rtl = false
-  dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+# logo = "img/logo.png"
+# secondaryLogo = "img/secondary-logo.png"
+# description = "My awesome website"
+# copyright = "Copy, _right?_ :thinking_face:"
 
-  [author]
-  name = "Issac Dowling"
-  image = "img/avatar.png"
-  headline = "I make things, and videos about things"
-  #bio = "Test"
-  links = [
+[author]
+name = "Issac Dowling"
+image = "img/avatar.png"
+headline = "Learning software development, making things"
+#bio = "Test"
+links = [
     { email = "mailto:contact@issacdowling.com" },
-    { youtube = "https://youtube.com/issacdowling" },
-    { tiktok = "https://www.tiktok.com/@issacdowling"},
-    { discord = "https://discord.com/invite/rmQX5984g8"},
-    { gitlab = "https://gitlab.com/issacdowling"},
-    { mastodon = "https://social.issacdowling.com/issac"},
-    { patreon = "https://patreon.com/issacdowling"}
-  ]
+    { gitlab = "https://gitlab.com/issacdowling" },
+    { github = "https://github.com/issacdowling" },
+]

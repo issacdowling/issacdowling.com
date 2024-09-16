@@ -2,8 +2,7 @@
 title: "Why My Watch *Needed* Debloating"
 date: 2023-07-28T13:01:13+01:00
 authors: ["Issac Dowling"]
-categories: ["Just Chatting", "Android", "Tech"]
-tags: ["Debloating", "Software", "Optimisation", "Wearables", "Frustration", "Has a Video Too"]
+categories: ["Android", "Tech"]
 draft: false
 showTableOfContents: true
 ---
@@ -20,7 +19,7 @@ They were wrong, which is integral to my point that debloating my watch was 100%
 
 What are you going to do with it? (Specifically, my "it" is a red Fossil Sport) Yes, recieve notifications on your wrist, but what else? There are email clients, music apps, workout trackers, games, all of which *work*, but I question how many people actually use them.
 
-Admittedly, a lot of the appeal of a smartwatch for me when I was younger was the ability to play games on my watch since phones were banned at all times in a previous school of mine. At one point, therefore, I DID care about it being able to do lots of things separately from my phone, and there are absolutely hacky ways to get things done. The fact that there are working browsers, and the ability to sideload **real, full android apps**, means that the platform has the capability to do lots. 
+Admittedly, a lot of the appeal of a smartwatch for me when I was younger was the ability to play games on my watch since phones were banned at all times in a previous school of mine. At one point, therefore, I DID care about it being able to do lots of things separately from my phone, and there are absolutely hacky ways to get things done. The fact that there are working browsers, and the ability to sideload **real, full android apps**, means that the platform has the capability to do lots.
 
 The problem is, I don't need that anymore.
 
@@ -32,9 +31,9 @@ Yes, my watch can already do those two simple things. The problem is, it's reall
 
 ![Swiping up to check notifications on a watch, but they don't show up for a few seconds](fossil-sport-wearos-slow-notifs.gif)
 
-This is not constant, but it's often enough that it encourages me to never bother using the watch, since my phone coming out of my pocket is at least a consistent speed, if slower sometimes. 
+This is not constant, but it's often enough that it encourages me to never bother using the watch, since my phone coming out of my pocket is at least a consistent speed, if slower sometimes.
 
-Most importantly, this sloweness is not necessary, and can be *so much worse*. Why don't I sign in on my watch? One reason is that the play store just seems to install more things I don't need, slowing the watch to the point of *constantly* feeling terrible, and making it almost unusable while installing those things. I've had my watch take 20 seconds to open the app drawer before. I can feel the watch getting hot, which on one hand is a little bit cool, and really just proves the point that it's not magic, it's just a slow computer on my wrist, but is also not what I want. 
+Most importantly, this sloweness is not necessary, and can be *so much worse*. Why don't I sign in on my watch? One reason is that the play store just seems to install more things I don't need, slowing the watch to the point of *constantly* feeling terrible, and making it almost unusable while installing those things. I've had my watch take 20 seconds to open the app drawer before. I can feel the watch getting hot, which on one hand is a little bit cool, and really just proves the point that it's not magic, it's just a slow computer on my wrist, but is also not what I want.
 
 ## So how do I solve it?
 
@@ -123,10 +122,10 @@ I already removed some of those, yet they were still here. That's because I forg
 So sadly, for now at least, I have to leave this debloating section in a weird place. I can now list all of the extra packages, but no matter what command I run, I cannot get them to be uninstalled, as I either get `Failure [not installed for 0]`, or `Failure [not installed for 0]`. However, at least many apps *really are* uninstalled, and those others are disabled.
 
 ### Sideloading:
-Although we're nearly done, there's one more step. How do I get my favourite open source watch face? And potentially other apps, but I don't need them myself. I don't use the playstore since it seems to install lots of other extra stuff. 
+Although we're nearly done, there's one more step. How do I get my favourite open source watch face? And potentially other apps, but I don't need them myself. I don't use the playstore since it seems to install lots of other extra stuff.
 
 [Pixel WatchFace](https://github.com/CorvetteCole/PixelWatchFace) is a watch face that's open source, meaning I can - without breaking any TOS, as an APK site pulling from the playstore's proprietary apps may, get the apk for it from Github, and just run `adb -e install ~/Downloads/wearApp-release.apk`, and waiting a little bit for it to transfer and install over bluetooth. Now I've got my favourite watch face without needing to use an appstore, which is important since I removed the Fossil ones earlier so I'm stuck with this:
-![Grey watchface, indicating a lack of any actual styled faces](fossil-wearos-only-watchface-1.png) 
+![Grey watchface, indicating a lack of any actual styled faces](fossil-wearos-only-watchface-1.png)
 ![Watchface selection menu showing only one option](fossil-wearos-only-watchface-2.png)
 
 That install process works with any app you find, so this will be useful for people wanting to keep their setups as minimal and purposeful as possible.
