@@ -12,24 +12,24 @@
 
 [[main]]
 name = "About"
-pageRef = "posts/blog/about-me-160924/" #No trailing slash here or it breaks??
+pageRef = "/posts/blog/about-me-160924" #No trailing slash here or it breaks??
 weight = 10
 
 [[main]]
 name = "Blog"
-pageRef = "blog"
+pageRef = "/blog"
 weight = 20
 
 [[main]] #THIS ONLY EXISTS BECAUSE THE
-name = "Blogs"   #PARENT OF A NESTED MENU IS
-parent = "Blog"  #UNCLICKABLE IN VERTICAL LAYOUTS
-pageRef = "blog"
+name = "Blogs"    #PARENT OF A NESTED MENU IS
+parent = "Blog"   #UNCLICKABLE IN VERTICAL LAYOUTS
+pageRef = "/blog"
 weight = 1
 
 [[main]]
 name = "Categories"
 parent = "Blog"
-pageRef = "categories"
+pageRef = "/categories"
 weight = 2
 
 # [[main]]
