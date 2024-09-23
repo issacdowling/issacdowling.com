@@ -12,7 +12,7 @@
 
 [[main]]
 name = "About"
-pageRef = "/posts/blog/about-me-160924/" #No trailing slash here or it breaks??
+pageRef = "posts/blog/about-me-160924/" #No trailing slash here or it breaks??
 weight = 10
 
 [[main]]
